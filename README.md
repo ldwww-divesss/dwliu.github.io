@@ -12,7 +12,7 @@
 
 I am a third-year undergraduate student at the **School of Intelligent Robotics and Advanced Manufacturing, Fudan University**, majoring in Intelligent Science and Technology.
 
-My research interests focus on **AI Agents**, **Multi-Agent Systems (MAS)**, and **Large Language Model (LLM) Applications**. I am currently conducting research on **Multi-Agent Systems** at the **joint laboratory of Tsinghua University NLP Group and Shanghai Jiao Tong University**, with an emphasis on agent collaboration mechanisms and evaluation methodologies.
+My research interests focus on **AI Agents**, **Multi-Agent Systems (MAS)**, and **Large Language Model (LLM) Applications**. I am currently conducting research on **Multi-Agent Systems** at the **joint laboratory of Tsinghua University NLP Group and Shanghai Jiao Tong University**.
 
 ---
 
